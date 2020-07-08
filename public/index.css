@@ -1,34 +1,66 @@
-#sidebar-container {
-    height: 100%; /* Full-height: remove this if you want "auto" height */
-    width: 160px; /* Set the width of the sidebar */
-    position: fixed; /* Fixed Sidebar (stay in place on scroll) */
-    z-index: 1; /* Stay on top */
-    top: 0; /* Stay at the top */
-    left: 0;
-    background-color: #111; /* Black */
-    overflow-x: hidden; /* Disable horizontal scroll */
-    padding-top: 20px;
-}
+ * {
+    margin: 0;
+    padding: 0;
+  }
 
-#sidebar-container #sidebar-list-wrapper .sidebar-list-item {
-    padding: 6px 8px 6px 16px;
+  html, body {
+    height: 100%;
+ }
+
+  body {
+    font-family: 'Montserrat', sans-serif;;
+  }
+  .aside {
+    position: fixed;
+    width: 13rem;
+    background-color: #414141;
+    height: 100vh;
+  }
+
+  .aside nav, aside nav ul {
+    height: 100%;
+  }
+  .aside li {
+    list-style-type: none;
+    width: 100%;
+  }
+  .aside li a {
+    color: white;
     text-decoration: none;
-    font-size: 25px;
-    color: #818181;
-    display: block;
-}
+    font-size: 1.5rem;
+    margin-bottom: 2rem;
+    font-weight: 600;
+  }
+  .aside li a:hover {
+    color: red;
+  }
 
-#sidebar-container #sidebar-list-wrapper .sidebar-list-item:hover {
-    color: #f1f1f1;
-}
+  .main {
+    height: 100%;
+    width: 100%;
+    margin-left: 13rem;
+    box-sizing: border-box;
+  }
+  .main section {
+    height: 100vh;
+    color: white;
+  }
+  section h1 {
+    letter-spacing: 2px;
+    color: white;
+    text-transform: uppercase;
+  }
+  .main .website-title {
+    text-align: center;
+    position: sticky;
+    padding: 40px;
+    color: #FFAB40;
+  }
 
-#page-container {
-    margin-left: 160px; /* Same as the width of the sidebar */
-    padding: 0 10px;
-}
+ .stream { background-color: red; }
+ .about { background-color: green; }
+ .contact { background-color: blue; }
 
-@media screen and (max-height: 450px) {
-    #sidebar-container {padding-top: 15px;}
-    #sidebar-container #sidebar-list-wrapper .sidebar-list-item {font-size: 18px;}
-}
-
+ #stream { background-color: red; }
+ #about { background-color: green; }
+ #contact { background-color: blue; }
