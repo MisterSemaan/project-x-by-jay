@@ -1,0 +1,11 @@
+#home {
+    background-image: url("../../../assets/backgroundImage.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 1600px 1000px;
+}
+
+#home > h1 {
+    font-size: 2rem;
+}
+
