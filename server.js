@@ -2,13 +2,22 @@ const path = require('path');
 const express = require('express');
 
 const app = express();
-const publicPath = path.join(__dirname, 'public');
 const port = process.env.PORT || 5000;
 
-app.use(express.static(publicPath));
+const publicPath = path.join(__dirname, 'public');
+const buildPath = path.join(__dirname, 'build');
 
-app.get('*', (req, res) => {
+app.use(express.static(publicPath));
+app.use(express.static(path.join(__dirname, 'src', 'assets')));
+
+// Development
+app.get('/', (req, res) => {
   res.sendFile(path.join(publicPath, 'index.html'));
+});
+
+// Production
+app.get('*', (req, res) => {
+  res.sendFile(path.join(buildPath, 'index.html'));
 });
 
 app.listen(port, () => {

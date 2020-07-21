@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ca74dce8-41bd-42be-918d-d8fc564a0afb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/server.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/server.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js/master.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/master.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,6 +68,16 @@
       <envs />
       <method v="2" />
     </configuration>
+    <configuration name="build" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="build" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
     <configuration name="server" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
       <package-json value="$PROJECT_DIR$/package.json" />
       <command value="run" />
@@ -99,8 +110,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="npm.app" />
         <item itemvalue="npm.start" />
+        <item itemvalue="npm.build" />
+        <item itemvalue="npm.app" />
         <item itemvalue="npm.server" />
         <item itemvalue="npm.start:watch" />
       </list>
@@ -122,7 +134,7 @@
       <workItem from="1595000145650" duration="79000" />
       <workItem from="1595000240935" duration="162000" />
       <workItem from="1595000417522" duration="4240000" />
-      <workItem from="1595166672582" duration="12862000" />
+      <workItem from="1595166672582" duration="14003000" />
     </task>
     <servers />
   </component>
@@ -137,22 +149,22 @@
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
     <state x="634" y="325" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1792.1097@0.23.1792.1097" timestamp="1595324026008" />
-    <state width="1771" height="303" key="GridCell.Tab.0.bottom" timestamp="1595334375131">
+    <state width="1771" height="303" key="GridCell.Tab.0.bottom" timestamp="1595349538207">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
-    <state width="1771" height="303" key="GridCell.Tab.0.bottom/0.23.1792.1097@0.23.1792.1097" timestamp="1595334375131" />
-    <state width="1771" height="303" key="GridCell.Tab.0.center" timestamp="1595334375130">
+    <state width="1771" height="303" key="GridCell.Tab.0.bottom/0.23.1792.1097@0.23.1792.1097" timestamp="1595349538207" />
+    <state width="1771" height="303" key="GridCell.Tab.0.center" timestamp="1595349538206">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
-    <state width="1771" height="303" key="GridCell.Tab.0.center/0.23.1792.1097@0.23.1792.1097" timestamp="1595334375130" />
-    <state width="1771" height="303" key="GridCell.Tab.0.left" timestamp="1595334375130">
+    <state width="1771" height="303" key="GridCell.Tab.0.center/0.23.1792.1097@0.23.1792.1097" timestamp="1595349538206" />
+    <state width="1771" height="303" key="GridCell.Tab.0.left" timestamp="1595349538206">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
-    <state width="1771" height="303" key="GridCell.Tab.0.left/0.23.1792.1097@0.23.1792.1097" timestamp="1595334375130" />
-    <state width="1771" height="303" key="GridCell.Tab.0.right" timestamp="1595334375131">
+    <state width="1771" height="303" key="GridCell.Tab.0.left/0.23.1792.1097@0.23.1792.1097" timestamp="1595349538206" />
+    <state width="1771" height="303" key="GridCell.Tab.0.right" timestamp="1595349538206">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
-    <state width="1771" height="303" key="GridCell.Tab.0.right/0.23.1792.1097@0.23.1792.1097" timestamp="1595334375131" />
+    <state width="1771" height="303" key="GridCell.Tab.0.right/0.23.1792.1097@0.23.1792.1097" timestamp="1595349538206" />
     <state x="397" y="210" key="SettingsEditor" timestamp="1595166820873">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
