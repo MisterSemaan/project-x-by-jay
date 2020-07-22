@@ -1,4 +1,9 @@
 import React from 'react';
+import {
+  BrowserRouter as Router,
+  Route,
+} from "react-router-dom";
+
 import { Nav } from "./components/Nav/nav";
 import { Home } from "./components/Home/home";
 import { Stream } from "./components/Stream/stream";
@@ -11,14 +16,26 @@ import '../css/app.css';
 
 function App() {
   return (
-    <main className="main">
+    <Router>
       <Nav />
-      <Home />
-      <Stream />
-      <AboutSwitcher />
-      <Partner />
-      <Contact />
-    </main>
+      <main id="page-content-container">
+        <Route exact path="/">
+          <Home />
+        </Route>
+        <Route exact path="/stream">
+          <Stream />
+        </Route>
+        <Route exact path="/about">
+          <AboutSwitcher />
+        </Route>
+        <Route exact path="/partner">
+          <Partner />
+        </Route>
+        <Route exact path="/contact">
+          <Contact />
+        </Route>
+      </main>
+    </Router>
   );
 }
 

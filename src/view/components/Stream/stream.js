@@ -7,11 +7,13 @@ export const Stream = () => {
   return (
     <section id="stream" className="flex alignItemsCenter justifyCenter">
       <TwitchEmbed
+        className="twitch-wrapper"
         channel="bananamman_"
-        id="moonstar_x"
         theme="dark"
         muted
         onVideoPause={() => console.log(":(")}
+        height="800px"
+        width="1380px"
       />
     </section>
   );

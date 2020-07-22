@@ -21,9 +21,9 @@ export const AboutSwitcher = () => {
       <div className="gridWrapper">
         <h2 className="item1">Was ist Project X?</h2>
         <div className="flag">
-        <a href='#' onClick={() => setLang('FRENCH')}>Français</a>
-        <a href='#' onClick={() => setLang('ENGLISH')}>English</a>
-        <a href='#' onClick={() => setLang('GERMAN')}>Deutsch</a>
+          <button onClick={() => setLang('FRENCH')}>Français</button>
+          <button onClick={() => setLang('ENGLISH')}>English</button>
+          <button onClick={() => setLang('GERMAN')}>Deutsch</button>
       </div>
       {AboutText}
       </div>

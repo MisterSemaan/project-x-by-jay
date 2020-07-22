@@ -5,7 +5,10 @@
     background-size: 1600px 1000px;
 }
 
-#home > h1 {
-    font-size: 2rem;
+#home > img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
 }
 

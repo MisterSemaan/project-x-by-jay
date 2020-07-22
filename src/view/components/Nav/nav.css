@@ -1,26 +1,27 @@
-.aside {
+aside {
     position: fixed;
-    width: 13rem;
-    background-color: #414141;
+    width: 12%;
     height: 100vh;
 }
 
-.aside nav, aside nav ul {
+nav, ul {
     height: 100%;
+    width: 100%;
+    margin-left: -24px;
+    margin-top: -8px;
 }
-.aside li {
-    list-style-type: none;
+
+aside nav ul li {
+    height: 25%;
     width: 100%;
 }
-.aside li a {
-    text-decoration: none;
+
+aside nav ul li .linkItem {
     font-size: 1.5rem;
-    margin-bottom: 2rem;
     font-weight: 600;
 }
-.aside li:hover {
-    background-color: #D7B740;
-}
+
+aside li:hover { background-color: #D7B740; }
 
 .home { background-color: #000000; }
 .home a { color: #F9E4B7; }
@@ -29,10 +30,10 @@
 .about a { color: #F9E4B7; }
 
 .partner { background-color: #F9E4B7; }
-.partner a { color: black; }
+.partner a { color: #000000; }
 
 .contact { background-color: #000000; }
 .contact a { color: #F9E4B7; }
 
 .stream { background-color: #F9E4B7; }
-.stream a { color: black; }
+.stream a { color: #000000; }

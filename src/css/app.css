@@ -1,33 +1,15 @@
-* {
-    margin: 0;
-    padding: 0;
-}
-
-html, body {
-    height: 100%;
-    overflow: hidden;
-}
+li { list-style-type: none; }
+a { text-decoration: none; }
 
 body {
-    font-family: 'Montserrat', sans-serif;
-}
-
-img {
-    width: 50%;
-}
-
-.main {
-    height: 100%;
     width: 100%;
-    margin-left: 13rem;
-    box-sizing: border-box;
+    height: 100%;
+    margin: 0;
 }
-.main section {
+
+main {
     height: 100vh;
-    color: white;
+    margin-left: 11.5%;
 }
-section h1 {
-    letter-spacing: 2px;
-    color: white;
-    text-transform: uppercase;
-}
+
+section { height: 100%; }
