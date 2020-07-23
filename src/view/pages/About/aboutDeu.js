@@ -2,7 +2,7 @@ import React from 'react'
 
 export const AboutDeu = () => {
   return (
-    <p className="item3">
+    <p>
         Project X bedeutet Liebe, es ist vertrauen und Zusammenhalt.
         Alles was eben bei einer Familie dazugehört.
 

@@ -2,29 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ca74dce8-41bd-42be-918d-d8fc564a0afb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/assets/partner/Project_X_Logo_FINAL_FINAL-schwarz-01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/partner/Project_X_Logo_FINAL_FINAL-schwarz.eps" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/partner/Project_X_Logo_FINAL_FINAL-weiss-01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/partner/logo_black.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/partner/logo_black.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/view/pages/Partner/components/partnerWrapper.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/view/pages/Gallery/components/preview.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/view/pages/Gallery/gallery.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/view/pages/Gallery/gallery.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/view/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/view/components/About/about.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/pages/About/about.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/view/components/About/aboutDeu.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/pages/About/aboutDeu.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/view/components/About/aboutEng.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/pages/About/aboutEng.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/view/components/About/aboutFre.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/pages/About/aboutFre.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/view/components/About/aboutSwitcher.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/pages/About/aboutSwitcher.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/view/components/Contact/contact.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/pages/Contact/contact.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/view/components/Contact/contact.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/pages/Contact/contact.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/view/components/Home/home.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/pages/Home/home.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/view/components/Home/home.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/pages/Home/home.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/view/components/Nav/nav.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/pages/Nav/nav.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/view/components/Nav/nav.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/pages/Nav/nav.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/view/components/Partner/partner.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/pages/Partner/partner.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/view/components/Partner/partner.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/pages/Partner/partner.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/view/components/Stream/stream.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/pages/Stream/stream.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/view/components/Stream/stream.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/pages/Stream/stream.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/view/pages/About/about.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/pages/About/about.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/view/pages/About/aboutDeu.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/pages/About/aboutDeu.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/view/pages/About/aboutEng.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/pages/About/aboutEng.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/view/pages/About/aboutFre.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/pages/About/aboutFre.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/view/pages/About/aboutSwitcher.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/pages/About/aboutSwitcher.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/view/pages/Home/home.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/pages/Home/home.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/view/pages/Nav/nav.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/pages/Nav/nav.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/view/pages/Partner/partner.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/pages/Partner/partner.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -153,7 +143,7 @@
       <workItem from="1595000240935" duration="162000" />
       <workItem from="1595000417522" duration="4240000" />
       <workItem from="1595166672582" duration="18042000" />
-      <workItem from="1595430250864" duration="8059000" />
+      <workItem from="1595430250864" duration="12230000" />
     </task>
     <servers />
   </component>

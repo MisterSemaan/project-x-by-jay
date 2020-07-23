@@ -8,6 +8,7 @@ import { Nav } from "./pages/Nav/nav";
 import { Home } from "./pages/Home/home";
 import { Stream } from "./pages/Stream/stream";
 import { AboutSwitcher } from './pages/About/aboutSwitcher'
+import { Gallery } from './pages/Gallery/gallery';
 import { Partner } from "./pages/Partner/partner";
 import { Contact } from "./pages/Contact/contact";
 
@@ -27,6 +28,9 @@ function App() {
         </Route>
         <Route exact path="/about">
           <AboutSwitcher />
+        </Route>
+        <Route exact path="/gallery">
+          <Gallery />
         </Route>
         <Route exact path="/partner">
           <Partner />

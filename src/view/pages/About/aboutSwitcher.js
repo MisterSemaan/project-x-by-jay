@@ -18,15 +18,17 @@ export const AboutSwitcher = () => {
   }
   return (
     <section id="about" className="flex alignItemsCenter justifyCenter">
-      <div className="gridWrapper">
-        <h2 className="item1">Was ist Project X?</h2>
-        <div className="flag">
-          <button onClick={() => setLang('FRENCH')}>Français</button>
-          <button onClick={() => setLang('ENGLISH')}>English</button>
-          <button onClick={() => setLang('GERMAN')}>Deutsch</button>
+      <div className="top">
+        <h2 className="aboutTitle">Was ist Project X?</h2>
+        <div className="aboutLanguages">
+          <button className="aboutLangFre" onClick={() => setLang('FRENCH')}>Français</button>
+          <button className="aboutLangEng" onClick={() => setLang('ENGLISH')}>English</button>
+          <button className="aboutLangDeu" onClick={() => setLang('GERMAN')}>Deutsch</button>
       </div>
-      {AboutText}
       </div>
+      <div className="bottom">
+          {AboutText}
+        </div>
     </section>
   );
 };

@@ -17,6 +17,9 @@ export const Nav = () => {
           <li className="about flex alignItemsCenter justifyCenter flexOne menu-item">
             <Link className="linkItem" to='/about'>About</Link>
           </li>
+          <li className="gallery flex alignItemsCenter justifyCenter flexOne menu-item">
+            <Link className="linkItem" to='/gallery'>Gallery</Link>
+          </li>
           <li className="partner flex alignItemsCenter justifyCenter flexOne menu-item">
             <Link className="linkItem" to='/partner'>Partner</Link>
           </li>
