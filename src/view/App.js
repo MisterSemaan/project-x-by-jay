@@ -4,12 +4,12 @@ import {
   Route,
 } from "react-router-dom";
 
-import { Nav } from "./components/Nav/nav";
-import { Home } from "./components/Home/home";
-import { Stream } from "./components/Stream/stream";
-import { AboutSwitcher } from './components/About/aboutSwitcher'
-import { Partner } from "./components/Partner/partner";
-import { Contact } from "./components/Contact/contact";
+import { Nav } from "./pages/Nav/nav";
+import { Home } from "./pages/Home/home";
+import { Stream } from "./pages/Stream/stream";
+import { AboutSwitcher } from './pages/About/aboutSwitcher'
+import { Partner } from "./pages/Partner/partner";
+import { Contact } from "./pages/Contact/contact";
 
 import '../css/flex.css';
 import '../css/app.css';
