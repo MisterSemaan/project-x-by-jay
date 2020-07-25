@@ -2,19 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ca74dce8-41bd-42be-918d-d8fc564a0afb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/view/pages/Gallery/components/preview.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/view/pages/Gallery/gallery.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/view/pages/Gallery/gallery.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/view/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/view/pages/About/about.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/pages/About/about.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/view/pages/About/aboutDeu.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/pages/About/aboutDeu.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/view/pages/About/aboutEng.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/pages/About/aboutEng.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/view/pages/About/aboutFre.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/pages/About/aboutFre.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/view/pages/About/aboutSwitcher.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/pages/About/aboutSwitcher.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/view/pages/Home/home.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/pages/Home/home.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/view/pages/Nav/nav.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/pages/Nav/nav.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/view/pages/Partner/partner.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/pages/Partner/partner.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -143,7 +133,8 @@
       <workItem from="1595000240935" duration="162000" />
       <workItem from="1595000417522" duration="4240000" />
       <workItem from="1595166672582" duration="18042000" />
-      <workItem from="1595430250864" duration="12230000" />
+      <workItem from="1595430250864" duration="12381000" />
+      <workItem from="1595681224323" duration="486000" />
     </task>
     <servers />
   </component>
@@ -162,22 +153,22 @@
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
     <state x="634" y="325" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1792.1097@0.23.1792.1097" timestamp="1595324026008" />
-    <state width="1771" height="303" key="GridCell.Tab.0.bottom" timestamp="1595454198154">
+    <state width="1771" height="303" key="GridCell.Tab.0.bottom" timestamp="1595529129779">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
-    <state width="1771" height="303" key="GridCell.Tab.0.bottom/0.23.1792.1097@0.23.1792.1097" timestamp="1595454198154" />
-    <state width="1771" height="303" key="GridCell.Tab.0.center" timestamp="1595454198153">
+    <state width="1771" height="303" key="GridCell.Tab.0.bottom/0.23.1792.1097@0.23.1792.1097" timestamp="1595529129779" />
+    <state width="1771" height="303" key="GridCell.Tab.0.center" timestamp="1595529129779">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
-    <state width="1771" height="303" key="GridCell.Tab.0.center/0.23.1792.1097@0.23.1792.1097" timestamp="1595454198153" />
-    <state width="1771" height="303" key="GridCell.Tab.0.left" timestamp="1595454198152">
+    <state width="1771" height="303" key="GridCell.Tab.0.center/0.23.1792.1097@0.23.1792.1097" timestamp="1595529129779" />
+    <state width="1771" height="303" key="GridCell.Tab.0.left" timestamp="1595529129778">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
-    <state width="1771" height="303" key="GridCell.Tab.0.left/0.23.1792.1097@0.23.1792.1097" timestamp="1595454198152" />
-    <state width="1771" height="303" key="GridCell.Tab.0.right" timestamp="1595454198153">
+    <state width="1771" height="303" key="GridCell.Tab.0.left/0.23.1792.1097@0.23.1792.1097" timestamp="1595529129778" />
+    <state width="1771" height="303" key="GridCell.Tab.0.right" timestamp="1595529129779">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
-    <state width="1771" height="303" key="GridCell.Tab.0.right/0.23.1792.1097@0.23.1792.1097" timestamp="1595454198153" />
+    <state width="1771" height="303" key="GridCell.Tab.0.right/0.23.1792.1097@0.23.1792.1097" timestamp="1595529129779" />
     <state x="397" y="210" key="SettingsEditor" timestamp="1595166820873">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
@@ -186,5 +177,9 @@
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
     <state x="471" y="211" width="1083" height="650" key="find.popup/0.23.1792.1097@0.23.1792.1097" timestamp="1595432260938" />
+    <state width="600" height="428" key="javadoc.popup" timestamp="1595681339428">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state width="600" height="428" key="javadoc.popup/0.23.1792.1097@0.23.1792.1097" timestamp="1595681339428" />
   </component>
 </project>
