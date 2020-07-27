@@ -1,3 +1,18 @@
-.previewImage {
-    width: 100%;
+#gallery {
+    background-color: #F9E4B7;
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: 0.1fr 1fr;
+}
+
+#gallery .galleryPhotographers {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    justify-items: center;
+}
+
+#gallery .photos div{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    height: 100%;
 }

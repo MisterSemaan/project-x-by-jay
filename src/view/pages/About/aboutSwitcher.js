@@ -1,8 +1,8 @@
 import React, { useState } from "react";
 
-import { AboutDeu } from "./aboutDeu";
-import { AboutFre } from "./aboutFre";
-import { AboutEng } from "./aboutEng";
+import { AboutDeu } from "./languages/aboutDeu";
+import { AboutFre } from "./languages/aboutFre";
+import { AboutEng } from "./languages/aboutEng";
 
 import './about.css'
 
