@@ -8,7 +8,7 @@ export const Contact = () => {
 
   return (
     <section id="contact" className="flex alignItemsCenter justifyCenter">
-      <SocialMedia socialMediaAlt="" socialMediaSrc={} socialMediaTitle={}/>
+      <SocialMedia socialMediaAlt="" socialMediaSrc="" socialMediaTitle=""/>
     </section>
   )
 }
