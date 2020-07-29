@@ -3,11 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="ca74dce8-41bd-42be-918d-d8fc564a0afb" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/gallery/switcher/DSC_0036 Kopie.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/gallery/switcher/amina.JPG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/gallery/switcher/DSC_0843 Kopie.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/gallery/switcher/theo.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/app.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/app.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/view/pages/About/about.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/pages/About/about.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/view/pages/About/languages/aboutEng.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/pages/About/languages/aboutEng.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/view/pages/Contact/contact.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/pages/Contact/contact.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/view/pages/Gallery/gallery.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/pages/Gallery/gallery.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -164,22 +162,22 @@
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
     <state x="634" y="325" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1792.1097@0.23.1792.1097" timestamp="1595846473144" />
-    <state width="1771" height="303" key="GridCell.Tab.0.bottom" timestamp="1595887544859">
+    <state width="1771" height="303" key="GridCell.Tab.0.bottom" timestamp="1596043642903">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
-    <state width="1771" height="303" key="GridCell.Tab.0.bottom/0.23.1792.1097@0.23.1792.1097" timestamp="1595887544859" />
-    <state width="1771" height="303" key="GridCell.Tab.0.center" timestamp="1595887544858">
+    <state width="1771" height="303" key="GridCell.Tab.0.bottom/0.23.1792.1097@0.23.1792.1097" timestamp="1596043642903" />
+    <state width="1771" height="303" key="GridCell.Tab.0.center" timestamp="1596043642902">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
-    <state width="1771" height="303" key="GridCell.Tab.0.center/0.23.1792.1097@0.23.1792.1097" timestamp="1595887544858" />
-    <state width="1771" height="303" key="GridCell.Tab.0.left" timestamp="1595887544857">
+    <state width="1771" height="303" key="GridCell.Tab.0.center/0.23.1792.1097@0.23.1792.1097" timestamp="1596043642902" />
+    <state width="1771" height="303" key="GridCell.Tab.0.left" timestamp="1596043642901">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
-    <state width="1771" height="303" key="GridCell.Tab.0.left/0.23.1792.1097@0.23.1792.1097" timestamp="1595887544857" />
-    <state width="1771" height="303" key="GridCell.Tab.0.right" timestamp="1595887544858">
+    <state width="1771" height="303" key="GridCell.Tab.0.left/0.23.1792.1097@0.23.1792.1097" timestamp="1596043642901" />
+    <state width="1771" height="303" key="GridCell.Tab.0.right" timestamp="1596043642903">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
-    <state width="1771" height="303" key="GridCell.Tab.0.right/0.23.1792.1097@0.23.1792.1097" timestamp="1595887544858" />
+    <state width="1771" height="303" key="GridCell.Tab.0.right/0.23.1792.1097@0.23.1792.1097" timestamp="1596043642903" />
     <state x="397" y="210" key="SettingsEditor" timestamp="1595166820873">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>

@@ -15,4 +15,9 @@
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     height: 100%;
+    justify-items: center;
+}
+
+#gallery .photos div img {
+    max-width: 80%;
 }

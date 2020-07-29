@@ -4,6 +4,7 @@
     grid-template-rows: 0.1fr 1fr;
     background-color: black;
     color: white;
+    overflow-x: auto;
 }
 #about .top {
     display: grid;
@@ -14,7 +15,8 @@
 }
 
 #about .top .aboutTitle{
-    font-size: 50px;
+    font-size: 56px;
+    padding-left: 7rem;
 }
 
 #about .bottom {
@@ -29,7 +31,8 @@
 #about .bottom p{
     text-align: center;
     height: 100%;
-    line-height: 30px;
-    font-size: 18px;
-    padding: 0 25px 0 25px;
+    line-height: 40px;
+    font-size: 22px;
+    padding: 0 18rem 0 18rem;
+    text-align: justify;
 }
