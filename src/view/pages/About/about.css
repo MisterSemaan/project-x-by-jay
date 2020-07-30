@@ -10,13 +10,46 @@
     display: grid;
     grid-template-columns: 1fr 0.1fr;
     justify-items: center;
-    align-items: center;
     height: 100%;
 }
 
 #about .top .aboutTitle{
     font-size: 56px;
     padding-left: 7rem;
+}
+
+#about .top .aboutLanguages{
+    display: grid;
+    grid-template-rows: repeat(3, 1fr);
+    width: 100%;
+}
+
+#about .top .aboutLanguages button{
+    border: 0 solid;
+}
+
+#about .top .aboutLanguages .aboutLangFre{
+    background-image: url('../../../assets/about/frenchFlag.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    -webkit-background-size: contain;
+    -moz-background-size: contain;
+    -o-background-size: contain;
+    background-size: contain;
+}
+
+#about .top .aboutLanguages .aboutLangDeu{
+    background-image: url('../../../assets/about/germanFlag.png');
+}
+
+#about .top .aboutLanguages .aboutLangEng{
+    background-image: url('../../../assets/about/englishFlag.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    -webkit-background-size: contain;
+    -moz-background-size: contain;
+    -o-background-size: contain;
+    background-size: contain;
 }
 
 #about .bottom {
@@ -28,11 +61,27 @@
     margin: 0 50px 0 50px;
 }
 
-#about .bottom p{
+#about .bottom div .smallHeader{
+    height: 100%;
+    line-height: 40px;
+    font-size: 32px;
+    font-weight: 700;
     text-align: center;
+    margin-top: 60px;
+}
+
+#about .bottom div img{
+    display: block;
+    text-align: center;
+    margin: auto auto;
+    width: 50%;
+}
+
+#about .bottom div p{
     height: 100%;
     line-height: 40px;
     font-size: 22px;
-    padding: 0 18rem 0 18rem;
-    text-align: justify;
+    padding: 0 10rem 0 10rem;
+    text-align: center;
 }
+

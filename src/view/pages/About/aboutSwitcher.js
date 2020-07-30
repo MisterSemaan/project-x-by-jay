@@ -16,14 +16,15 @@ export const AboutSwitcher = () => {
   } else {
     AboutText = <AboutDeu />
   }
+
   return (
     <section id="about" className="flex alignItemsCenter justifyCenter">
       <div className="top">
         <h2 className="aboutTitle">Was ist Project X?</h2>
         <div className="aboutLanguages">
-          <button className="aboutLangFre" onClick={() => setLang('FRENCH')}>Français</button>
-          <button className="aboutLangEng" onClick={() => setLang('ENGLISH')}>English</button>
-          <button className="aboutLangDeu" onClick={() => setLang('GERMAN')}>Deutsch</button>
+          <button className="aboutLangFre" onClick={() => setLang('FRENCH')} />
+          <button className="aboutLangDeu" onClick={() => setLang('GERMAN')} />
+          <button className="aboutLangEng" onClick={() => setLang('ENGLISH')} />
       </div>
       </div>
       <div className="bottom">
