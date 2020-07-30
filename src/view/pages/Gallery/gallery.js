@@ -1,34 +1,25 @@
-import React, { useState } from "react";
+import React  from "react";
+import { Link } from "react-router-dom";
 
-import { TheoGallery } from './photographers/theoGallery';
-import { AminaGallery } from './photographers/aminaGallery';
+import theoSwitcherImage from '../../../assets/gallery/tabSwitcher/theo.png';
+import aminaSwitcherImage from '../../../assets/gallery/tabSwitcher/amina.png';
 
 import './gallery.css';
 
 export const Gallery = () => {
-  const [photographer, setPhotographer] = useState('AMINA');
-  let Photographer;
-  if (photographer === 'THEO') {
-    Photographer = <TheoGallery />;
-  } else {
-    Photographer = <AminaGallery />
-  }
 
   return (
     <section id="gallery" className="page flex alignItemsCenter justifyCenter">
-      <div className="galleryPhotographers">
-        <button className="galleryPhotographersTheo" onClick={() => setPhotographer('THEO')}>prswrkvisuals</button>
-        <button className="galleryPhotographersAmina" onClick={() => setPhotographer('AMINA')}>amina</button>
-      </div>
-      <div className="photos">
-        {Photographer}
-      </div>
+      <Link className="galleryPhotographers theo" to='/gallery/prswrkvisuals'>
+        <img className="galleryPhotographersImage" style={{ width: '50%' }} src={theoSwitcherImage} alt="Link zu Theo's Bildern" />
+      </Link>
+      <Link className="galleryPhotographers amina" to='/gallery/amina'>
+        <img className="galleryPhotographersImage" src={aminaSwitcherImage} alt="Link zu Amina's Bildern" />
+      </Link>
     </section>
   )
 };
 
-// Tomorrow:
-// Instead of buttons, set images that redirect to the respective photographs (w: 50% - w: 50% for each image)
 
 // Future improvements:
 // Use picture elements, for responsive design... https://www.w3schools.com/html/html_images_picture.asp

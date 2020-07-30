@@ -1,23 +1,47 @@
 #gallery {
     background-color: #F9E4B7;
     display: grid;
-    grid-template-columns: 1fr;
-    grid-template-rows: 0.1fr 1fr;
+    grid-template-columns: repeat(2, 1fr);
+    align-content: center;
+    overflow-x: auto;
 }
 
 #gallery .galleryPhotographers {
-    display: grid;
-    grid-template-columns: repeat(2, 1fr);
-    justify-items: center;
+    text-align: center;
 }
 
-#gallery .photos div{
-    display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    height: 100%;
-    justify-items: center;
+#gallery .galleryPhotographers:hover {
+    opacity: 0.8;
+    -webkit-transition: all 0.25s;
+    transition: all 0.25s;
+    -webkit-transform: scale(1.1);
+    transform: scale(1.1);
 }
 
-#gallery .photos div img {
-    max-width: 80%;
+
+#gallery .galleryPhotographers img {
+    max-width: 75%;
 }
+
+#galleryAmina {
+    background-color: #F9E4B7;
+    overflow-x: auto;
+}
+
+
+#galleryTheo {
+    background-color: #F9E4B7;
+    overflow-x: auto;
+}
+
+section .shootName{
+    text-align: center;
+    font-size: 24px;
+    font-weight: 700;
+    padding-top: 30px;
+}
+
+section .shootNameTop {
+    text-align: center;
+    font-size: 24px;
+    font-weight: 700;}

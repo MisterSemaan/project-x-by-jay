@@ -9,6 +9,8 @@ import { Home } from "./pages/Home/home";
 import { Stream } from "./pages/Stream/stream";
 import { AboutSwitcher } from './pages/About/aboutSwitcher'
 import { Gallery } from './pages/Gallery/gallery';
+import { TheoGallery } from './pages/Gallery/photographers/theoGallery';
+import { AminaGallery } from './pages/Gallery/photographers/aminaGallery';
 import { Partner } from "./pages/Partner/partner";
 import { Contact } from "./pages/Contact/contact";
 
@@ -20,25 +22,15 @@ function App() {
     <Router>
       <Nav />
       <main id="page-content-container">
-        <Route exact path="/">
-          <Home />
-        </Route>
-        <Route exact path="/stream">
-          <Stream />
-        </Route>
-        <Route exact path="/about">
-          <AboutSwitcher />
-        </Route>
-        <Route exact path="/gallery">
-          <Gallery />
-        </Route>
-        <Route exact path="/partner">
-          <Partner />
-        </Route>
-        <Route exact path="/contact">
-          <Contact />
-        </Route>
-      </main>
+        <Route exact path="/" component={Home}/>
+        <Route exact path="/stream"  component={Stream} />
+        <Route exact path="/about" component={AboutSwitcher} />
+        <Route exact path="/gallery/" component={Gallery} />
+        <Route exact path="/gallery/prswrkvisuals" component={TheoGallery} />
+        <Route exact path="/gallery/amina" component={AminaGallery} />
+        <Route exact path="/partner" component={Partner}/>
+        <Route exact path="/contact" component={Contact} />
+        </main>
     </Router>
   );
 }
