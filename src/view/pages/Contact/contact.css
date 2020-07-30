@@ -1,4 +1,19 @@
 #contact {
     background-color: #000000;
+    color: white;
 }
 
+#contact .socialMediaWrapper {
+    text-align: center;
+}
+
+#contact .socialMediaWrapper:hover {
+    -webkit-transition: all 0.25s;
+    transition: all 0.25s;
+    -webkit-transform: scale(1.1);
+    transform: scale(1.1);
+}
+
+#contact .socialMediaWrapper img{
+    width: 50%
+}

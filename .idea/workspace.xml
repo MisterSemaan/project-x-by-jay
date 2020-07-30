@@ -2,20 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ca74dce8-41bd-42be-918d-d8fc564a0afb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/assets/about/aboutImage1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/about/aboutImage2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/about/englishFlag.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/about/frenchFlag.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/about/germanFlag.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/contact/facebookIcon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/contact/instagramIcon.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/videos/vid1.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/videos/vid2.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/view/pages/About/about.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/pages/About/about.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/view/pages/About/aboutSwitcher.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/pages/About/aboutSwitcher.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/view/pages/About/languages/aboutDeu.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/pages/About/languages/aboutDeu.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/view/pages/About/languages/aboutEng.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/pages/About/languages/aboutEng.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/view/pages/About/languages/aboutFre.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/pages/About/languages/aboutFre.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/view/pages/Home/home.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/pages/Home/home.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/view/pages/Contact/components/socialMedia.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/pages/Contact/components/socialMedia.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/view/pages/Contact/contact.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/pages/Contact/contact.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/view/pages/Contact/contact.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/pages/Contact/contact.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -154,7 +146,7 @@
       <workItem from="1595845918381" duration="4458000" />
       <workItem from="1595877923307" duration="4074000" />
       <workItem from="1595964922177" duration="2015000" />
-      <workItem from="1596106624830" duration="5778000" />
+      <workItem from="1596106624830" duration="6891000" />
     </task>
     <servers />
   </component>
@@ -173,22 +165,22 @@
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
     <state x="634" y="325" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1792.1097@0.23.1792.1097" timestamp="1595846473144" />
-    <state width="1771" height="303" key="GridCell.Tab.0.bottom" timestamp="1596064654263">
+    <state width="1771" height="303" key="GridCell.Tab.0.bottom" timestamp="1596114537305">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
-    <state width="1771" height="303" key="GridCell.Tab.0.bottom/0.23.1792.1097@0.23.1792.1097" timestamp="1596064654263" />
-    <state width="1771" height="303" key="GridCell.Tab.0.center" timestamp="1596064654262">
+    <state width="1771" height="303" key="GridCell.Tab.0.bottom/0.23.1792.1097@0.23.1792.1097" timestamp="1596114537305" />
+    <state width="1771" height="303" key="GridCell.Tab.0.center" timestamp="1596114537304">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
-    <state width="1771" height="303" key="GridCell.Tab.0.center/0.23.1792.1097@0.23.1792.1097" timestamp="1596064654262" />
-    <state width="1771" height="303" key="GridCell.Tab.0.left" timestamp="1596064654262">
+    <state width="1771" height="303" key="GridCell.Tab.0.center/0.23.1792.1097@0.23.1792.1097" timestamp="1596114537304" />
+    <state width="1771" height="303" key="GridCell.Tab.0.left" timestamp="1596114537304">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
-    <state width="1771" height="303" key="GridCell.Tab.0.left/0.23.1792.1097@0.23.1792.1097" timestamp="1596064654262" />
-    <state width="1771" height="303" key="GridCell.Tab.0.right" timestamp="1596064654263">
+    <state width="1771" height="303" key="GridCell.Tab.0.left/0.23.1792.1097@0.23.1792.1097" timestamp="1596114537304" />
+    <state width="1771" height="303" key="GridCell.Tab.0.right" timestamp="1596114537305">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
-    <state width="1771" height="303" key="GridCell.Tab.0.right/0.23.1792.1097@0.23.1792.1097" timestamp="1596064654263" />
+    <state width="1771" height="303" key="GridCell.Tab.0.right/0.23.1792.1097@0.23.1792.1097" timestamp="1596114537305" />
     <state x="397" y="210" key="SettingsEditor" timestamp="1595166820873">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
@@ -205,5 +197,9 @@
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
     <state width="600" height="428" key="javadoc.popup/0.23.1792.1097@0.23.1792.1097" timestamp="1595681339428" />
+    <state x="561" y="268" width="670" height="676" key="search.everywhere.popup" timestamp="1596114972498">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state x="561" y="268" width="670" height="676" key="search.everywhere.popup/0.23.1792.1097@0.23.1792.1097" timestamp="1596114972498" />
   </component>
 </project>
