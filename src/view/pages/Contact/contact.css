@@ -1,6 +1,8 @@
 #contact {
     background-color: #000000;
     color: white;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
 }
 
 #contact .socialMediaWrapper {
@@ -15,5 +17,5 @@
 }
 
 #contact .socialMediaWrapper img{
-    width: 50%
+    max-width: 50%
 }

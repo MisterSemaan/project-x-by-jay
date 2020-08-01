@@ -28,6 +28,14 @@
     border: 0 solid;
 }
 
+#about .top .aboutLanguages button:hover{
+    cursor: pointer;
+    -webkit-transition: all 0.25s;
+    transition: all 0.25s;
+    -webkit-transform: scale(1.1);
+    transform: scale(1.1);
+}
+
 #about .top .aboutLanguages .aboutLangFre{
     background-image: url('../../../assets/about/frenchFlag.png');
     background-repeat: no-repeat;
@@ -40,6 +48,12 @@
 
 #about .top .aboutLanguages .aboutLangDeu{
     background-image: url('../../../assets/about/germanFlag.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    -webkit-background-size: contain;
+    -moz-background-size: contain;
+    -o-background-size: contain;
+    background-size: contain;
 }
 
 #about .top .aboutLanguages .aboutLangEng{
