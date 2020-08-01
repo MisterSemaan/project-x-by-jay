@@ -1,3 +1,5 @@
+a { text-decoration: none; }
+
 aside {
     position: fixed;
     width: 12%;
@@ -11,33 +13,33 @@ nav, ul {
     margin-top: -8px;
 }
 
-aside nav ul li {
+aside nav ul a {
     height: 25%;
     width: 100%;
 }
 
-aside nav ul li .linkItem {
+aside nav ul a .linkItem {
     font-size: 1.5rem;
     font-weight: 600;
 }
 
-aside li:hover { background-color: #D7B740; }
+aside a:hover { background-color: #D7B740; }
 
 .home { background-color: #000000; }
-.home a { color: #F9E4B7; }
+.home .linkItem { color: #F9E4B7; }
 
 .stream { background-color: #F9E4B7; }
-.stream a { color: #000000; }
+.stream .linkItem { color: #000000; }
 
 .about { background-color: #000000; }
-.about a { color: #F9E4B7; }
+.about .linkItem { color: #F9E4B7; }
 
 .gallery { background-color: #F9E4B7; }
-.gallery a { color: #000000; }
+.gallery .linkItem { color: #000000; }
 
 .partner { background-color: #000000; }
-.partner a { color: #F9E4B7; }
+.partner .linkItem { color: #F9E4B7; }
 
 .contact { background-color: #F9E4B7; }
-.contact a { color: #000000; }
+.contact .linkItem { color: #000000; }
 

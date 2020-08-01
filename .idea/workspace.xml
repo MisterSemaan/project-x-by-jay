@@ -2,22 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ca74dce8-41bd-42be-918d-d8fc564a0afb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/assets/partner/1 Anomos .jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/partner/1 BCF--Full-Logo-Blue.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/partner/1 Easy Money 1(1).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/partner/1 Karakara Hilfe für Kinder in Niger e.V..png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/partner/2 DAFRIG - Deutsch-Afrikanische Gesellschaft.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/partner/2 Engagement Global.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/partner/2 Jimmie_Surles_white.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/partner/2 Rumpelstilzchen Ksenja Samide.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/partner/2 Staatsgalerie.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/partner/2 bbeventtechnik.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/view/pages/Gallery/gallery.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/pages/Gallery/gallery.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/view/pages/Gallery/gallery.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/pages/Gallery/gallery.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/view/pages/Partner/components/partnerWrapper.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/pages/Partner/components/partnerWrapper.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/view/pages/Partner/partner.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/pages/Partner/partner.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/view/pages/Partner/partner.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/pages/Partner/partner.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/view/pages/Nav/nav.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/pages/Nav/nav.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/view/pages/Nav/nav.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/pages/Nav/nav.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -158,7 +144,7 @@
       <workItem from="1595964922177" duration="2015000" />
       <workItem from="1596106624830" duration="16359000" />
       <workItem from="1596201587838" duration="18000" />
-      <workItem from="1596288209744" duration="3726000" />
+      <workItem from="1596288209744" duration="4067000" />
     </task>
     <servers />
   </component>
@@ -177,22 +163,22 @@
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
     <state x="634" y="325" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1792.1097@0.23.1792.1097" timestamp="1596144427733" />
-    <state width="1771" height="237" key="GridCell.Tab.0.bottom" timestamp="1596292143372">
+    <state width="1771" height="237" key="GridCell.Tab.0.bottom" timestamp="1596293289948">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
-    <state width="1771" height="237" key="GridCell.Tab.0.bottom/0.23.1792.1097@0.23.1792.1097" timestamp="1596292143372" />
-    <state width="1771" height="237" key="GridCell.Tab.0.center" timestamp="1596292143371">
+    <state width="1771" height="237" key="GridCell.Tab.0.bottom/0.23.1792.1097@0.23.1792.1097" timestamp="1596293289948" />
+    <state width="1771" height="237" key="GridCell.Tab.0.center" timestamp="1596293289947">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
-    <state width="1771" height="237" key="GridCell.Tab.0.center/0.23.1792.1097@0.23.1792.1097" timestamp="1596292143371" />
-    <state width="1771" height="237" key="GridCell.Tab.0.left" timestamp="1596292143371">
+    <state width="1771" height="237" key="GridCell.Tab.0.center/0.23.1792.1097@0.23.1792.1097" timestamp="1596293289947" />
+    <state width="1771" height="237" key="GridCell.Tab.0.left" timestamp="1596293289947">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
-    <state width="1771" height="237" key="GridCell.Tab.0.left/0.23.1792.1097@0.23.1792.1097" timestamp="1596292143371" />
-    <state width="1771" height="237" key="GridCell.Tab.0.right" timestamp="1596292143371">
+    <state width="1771" height="237" key="GridCell.Tab.0.left/0.23.1792.1097@0.23.1792.1097" timestamp="1596293289946" />
+    <state width="1771" height="237" key="GridCell.Tab.0.right" timestamp="1596293289948">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
-    <state width="1771" height="237" key="GridCell.Tab.0.right/0.23.1792.1097@0.23.1792.1097" timestamp="1596292143371" />
+    <state width="1771" height="237" key="GridCell.Tab.0.right/0.23.1792.1097@0.23.1792.1097" timestamp="1596293289948" />
     <state x="397" y="210" key="SettingsEditor" timestamp="1595166820873">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
