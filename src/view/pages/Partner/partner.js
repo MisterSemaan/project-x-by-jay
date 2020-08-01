@@ -22,11 +22,11 @@ export const Partner = () => {
         <PartnerWrapper partnerName="Anomos" partnerAlt="Anomos Logo" partnerSrc={anomosLogo} />
         <PartnerWrapper partnerName="BCF" partnerAlt="BCF Logo" partnerSrc={bcfLogo} />
         <PartnerWrapper partnerName="Easy Money" partnerAlt="Easy Money Logo" partnerSrc={easyMoneyLogo} />
-        <PartnerWrapper partnerName="Karakara" partnerAlt="Karakara Logo" partnerSrc={karakaraLogo} />
+        <PartnerWrapper partnerName="Karakara Hilfe für Kinder in Niger e.V." partnerAlt="Karakara Logo" partnerSrc={karakaraLogo} />
       </div>
       <div className="secondaryPartner">
         <PartnerWrapper partnerName="Bbeventtechnik" partnerAlt="Bbeventtechnik Logo" partnerSrc={bbEventlogo} />
-        <PartnerWrapper partnerName="DAFRIG" partnerAlt="DAFRIG Logo" partnerSrc={dafrigLogo} />
+        <PartnerWrapper partnerName="DAFRIG - Deutsch-Afrikanische Gesellschaft" partnerAlt="DAFRIG Logo" partnerSrc={dafrigLogo} />
         <PartnerWrapper partnerName="Engangement Global" partnerAlt="Engangement Global Logo" partnerSrc={egLogo} />
         <PartnerWrapper partnerName="Jimmie Surles" partnerAlt="Jimmie Surles Logo" partnerSrc={jsLogo} />
         <PartnerWrapper partnerName="Rumpelstilzchen Ksenja Samide" partnerAlt="Rumpelstilzchen Ksenja Samide Logo" partnerSrc={rksLogo} />
