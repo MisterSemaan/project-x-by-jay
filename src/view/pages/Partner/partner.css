@@ -2,8 +2,7 @@
     background-color: #F9E4B7;
     display: grid;
     grid-template-columns: 1fr;
-    grid-template-rows: repeat(2, 1fr);
-    grid-row-gap: 20px;
+    grid-template-rows: 0.5fr 1fr 1fr;
     justify-items: center;
     align-content: center;
     overflow-x: auto;

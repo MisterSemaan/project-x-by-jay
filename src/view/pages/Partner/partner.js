@@ -18,6 +18,7 @@ import './partner.css';
 export const Partner = () => {
   return (
     <section id="partner" className="flex alignItemsCenter justifyCenter">
+      <h2>Wir bedanken uns von ganzem Herzen an alle unsere Unterstützer, Sponsoren und Partner!</h2>
       <div className="priorityPartner">
         <PartnerWrapper partnerName="Anomos" partnerAlt="Anomos Logo" partnerSrc={anomosLogo} />
         <PartnerWrapper partnerName="BCF" partnerAlt="BCF Logo" partnerSrc={bcfLogo} />
