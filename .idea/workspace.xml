@@ -2,14 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ca74dce8-41bd-42be-918d-d8fc564a0afb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/assets/gallery/BBall Shoot/Prswrkvisuals/image00010.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/gallery/BBall Shoot/Prswrkvisuals/image00011.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/gallery/BBall Shoot/Prswrkvisuals/image00016.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/gallery/BBall Shoot/Prswrkvisuals/image00024.jpeg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/view/pages/Gallery/photographers/aminaGallery.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/pages/Gallery/photographers/aminaGallery.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/view/pages/Gallery/photographers/theoGallery.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/pages/Gallery/photographers/theoGallery.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/view/pages/Partner/partner.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/pages/Partner/partner.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/app.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/app.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/view/pages/About/about.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/pages/About/about.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/view/pages/About/aboutSwitcher.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/pages/About/aboutSwitcher.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,18 +46,18 @@
     <property name="settings.editor.selected.configurable" value="settings.nodejs" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/assets/gallery/tabSwitcher" />
+      <recent name="$PROJECT_DIR$/src/assets/gallery" />
+      <recent name="$PROJECT_DIR$/src/assets" />
+      <recent name="$PROJECT_DIR$/src/assets/partner" />
+      <recent name="$PROJECT_DIR$/src/assets/about" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/view/pages/Gallery/photographers" />
       <recent name="$PROJECT_DIR$/public" />
       <recent name="$PROJECT_DIR$/view/components" />
       <recent name="$PROJECT_DIR$/view" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/assets/partner" />
-      <recent name="$PROJECT_DIR$/src/assets/about" />
-      <recent name="$PROJECT_DIR$/src/assets/gallery" />
-      <recent name="$PROJECT_DIR$/src/assets/gallery/switcher" />
-      <recent name="$PROJECT_DIR$/src/assets/videos" />
     </key>
   </component>
   <component name="RunManager" selected="npm.start">
@@ -151,7 +147,7 @@
       <workItem from="1596106624830" duration="16359000" />
       <workItem from="1596201587838" duration="18000" />
       <workItem from="1596288209744" duration="7003000" />
-      <workItem from="1596726675349" duration="352000" />
+      <workItem from="1596726675349" duration="959000" />
     </task>
     <servers />
   </component>
@@ -166,26 +162,26 @@
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
     <state x="509" y="380" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1792.1097@0.23.1792.1097" timestamp="1595500049031" />
-    <state x="634" y="325" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1596144427733">
+    <state x="634" y="325" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1596727165940">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
-    <state x="634" y="325" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1792.1097@0.23.1792.1097" timestamp="1596144427733" />
-    <state width="1771" height="237" key="GridCell.Tab.0.bottom" timestamp="1596311551618">
+    <state x="634" y="325" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1792.1097@0.23.1792.1097" timestamp="1596727165940" />
+    <state width="1771" height="237" key="GridCell.Tab.0.bottom" timestamp="1596727213047">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
-    <state width="1771" height="237" key="GridCell.Tab.0.bottom/0.23.1792.1097@0.23.1792.1097" timestamp="1596311551618" />
-    <state width="1771" height="237" key="GridCell.Tab.0.center" timestamp="1596311551610">
+    <state width="1771" height="237" key="GridCell.Tab.0.bottom/0.23.1792.1097@0.23.1792.1097" timestamp="1596727213047" />
+    <state width="1771" height="237" key="GridCell.Tab.0.center" timestamp="1596727213046">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
-    <state width="1771" height="237" key="GridCell.Tab.0.center/0.23.1792.1097@0.23.1792.1097" timestamp="1596311551610" />
-    <state width="1771" height="237" key="GridCell.Tab.0.left" timestamp="1596311551608">
+    <state width="1771" height="237" key="GridCell.Tab.0.center/0.23.1792.1097@0.23.1792.1097" timestamp="1596727213046" />
+    <state width="1771" height="237" key="GridCell.Tab.0.left" timestamp="1596727213045">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
-    <state width="1771" height="237" key="GridCell.Tab.0.left/0.23.1792.1097@0.23.1792.1097" timestamp="1596311551608" />
-    <state width="1771" height="237" key="GridCell.Tab.0.right" timestamp="1596311551618">
+    <state width="1771" height="237" key="GridCell.Tab.0.left/0.23.1792.1097@0.23.1792.1097" timestamp="1596727213045" />
+    <state width="1771" height="237" key="GridCell.Tab.0.right" timestamp="1596727213046">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
-    <state width="1771" height="237" key="GridCell.Tab.0.right/0.23.1792.1097@0.23.1792.1097" timestamp="1596311551618" />
+    <state width="1771" height="237" key="GridCell.Tab.0.right/0.23.1792.1097@0.23.1792.1097" timestamp="1596727213046" />
     <state x="397" y="210" key="SettingsEditor" timestamp="1595166820873">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
@@ -194,10 +190,10 @@
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
     <state x="684" y="492" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1792.1097@0.23.1792.1097" timestamp="1596146212733" />
-    <state x="471" y="211" width="1083" height="650" key="find.popup" timestamp="1596726736813">
+    <state x="471" y="211" width="1083" height="650" key="find.popup" timestamp="1596727680938">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
-    <state x="471" y="211" width="1083" height="650" key="find.popup/0.23.1792.1097@0.23.1792.1097" timestamp="1596726736813" />
+    <state x="471" y="211" width="1083" height="650" key="find.popup/0.23.1792.1097@0.23.1792.1097" timestamp="1596727680938" />
     <state width="600" height="428" key="javadoc.popup" timestamp="1595681339428">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>

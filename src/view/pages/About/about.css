@@ -75,6 +75,19 @@
     margin: 0 50px 0 50px;
 }
 
+#about .bottom a {
+    text-align: center;
+    color: #F9E5B7;
+}
+
+#about .bottom a:hover {
+    cursor: pointer;
+    -webkit-transition: all 0.25s;
+    transition: all 0.25s;
+    -webkit-transform: scale(1.5);
+    transform: scale(1.5);
+}
+
 #about .bottom div .smallHeader{
     height: 100%;
     line-height: 40px;

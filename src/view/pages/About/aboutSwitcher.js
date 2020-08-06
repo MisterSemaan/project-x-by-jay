@@ -28,7 +28,8 @@ export const AboutSwitcher = () => {
       </div>
       </div>
       <div className="bottom">
-          {AboutText}
+        <a href="https://www.youtube.com/channel/UC6XTYyA0VW6IQVXCAybVYQw">Kein bock auf lesen? Click hier um die Videos zu sehen</a>
+        {AboutText}
         </div>
     </section>
   );
