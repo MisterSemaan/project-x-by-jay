@@ -8,7 +8,7 @@ export const Stream = () => {
     <section id="stream" className="flex alignItemsCenter justifyCenter">
       <TwitchEmbed
         className="twitch-wrapper"
-        channel="bananamman_"
+        channel="bbetlive"
         theme="dark"
         muted
         onVideoPause={() => console.log(":(")}
