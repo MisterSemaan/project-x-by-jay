@@ -8,6 +8,7 @@ export const Home = () => {
   return (
     <section id="home" className="page flex alignItemsCenter justifyCenter">
       <img src={HeaderText} alt="Project X by Ja_y_" />
+      <h1>Project X by Jay</h1>
     </section>
   )
 };

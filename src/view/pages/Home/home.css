@@ -13,3 +13,8 @@
     width: 50%;
     height: 100%;
 }
+
+#home h1 {
+    visibility: hidden;
+    position: absolute;
+}
